@@ -32,7 +32,11 @@
             <constraints>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="ZZc-CQ-keB" secondAttribute="bottom" id="2JY-og-0qh"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="ZZc-CQ-keB" secondAttribute="trailing" id="CqW-Bz-jpz"/>
+                <constraint firstItem="ZZc-CQ-keB" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="Oxu-Bk-Tbb"/>
+                <constraint firstItem="ZZc-CQ-keB" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="SO7-BB-x3s"/>
                 <constraint firstItem="ZZc-CQ-keB" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="YGn-GQ-TZ0"/>
+                <constraint firstItem="ZZc-CQ-keB" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="qNf-eA-VZs"/>
+                <constraint firstItem="ZZc-CQ-keB" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="x1U-U6-9HV"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <point key="canvasLocation" x="137.68115942028987" y="64.955357142857139"/>
